@@ -42,3 +42,9 @@ O **SuperHeroes** consome a [SuperHero API](https://superheroapi.com/) para exib
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [SuperHero API](https://superheroapi.com/)
 
+---
+
+## **Autores**
+- Guilherme Varago
+- Lorenzo 
+- Nicolas Guilherme
