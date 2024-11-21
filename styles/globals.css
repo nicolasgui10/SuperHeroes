@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  #heroes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  #heroes article {
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+  }
+  
+  #heroes img {
+    width: 100%;
+    height: auto;
+  }
+  
+  #heroes h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  #heroes p {
+    margin: 0 10px 10px;
+    font-size: 0.9rem;
+  }
+  
+  #heroes span {
+    display: block;
+    height: 8px;
+    border-radius: 4px;
+  }
+  
